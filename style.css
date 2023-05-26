@@ -1,0 +1,42 @@
+*{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+h1
+{
+    color:rgb(250, 36, 108);
+    margin-bottom:30px;
+}
+.main{
+    text-align: center;
+    margin-top: 100px;
+}
+#longlink
+{
+    height:40px;
+    width:400px;
+    margin-bottom: 20px;
+}
+#shortlink
+{
+    height:40px;
+    width:400px;
+}
+#shorten
+{
+    padding:10px 30px;
+    color: white;
+    background-color:rgb(231, 146, 113);
+}
+#shorten:hover{
+    background-color:rgb(217, 105, 68);
+}
+#copy{
+    padding:10px 20px;
+    color: white; 
+    background-color:lightseagreen;
+}
+#copy:hover
+{
+    background-color:rgb(17, 118, 113);;
+} 
